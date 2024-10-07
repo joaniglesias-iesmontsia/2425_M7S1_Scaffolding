@@ -1,4 +1,4 @@
-# 2425_M7UF1_Scaffolding
+# 2425_M7S1_Scaffolding
 
 Run using `docker-compose up`
 
